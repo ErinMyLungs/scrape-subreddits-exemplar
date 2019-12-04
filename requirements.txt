@@ -1,0 +1,7 @@
+mongomock
+pytest
+pylint
+
+pymongo
+praw
+psaw
